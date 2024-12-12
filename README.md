@@ -8,3 +8,5 @@
 Малакаева С.Ю.
 Научный руководитель:
 доцент, к.т.н. Журавлева М.Г.
+
+Набор данных : https://www.kaggle.com/datasets/ihelon/coffee-sales/data
